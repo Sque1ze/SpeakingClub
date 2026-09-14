@@ -1,0 +1,50 @@
+
+
+
+h1{
+    margin-top: 10%;
+    font-size: 40px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+    margin: 100px;
+   padding: 20px;
+  font-size: 18px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+header {
+    height: 100px;
+    background-image: url("https://i.pinimg.com/736x/44/16/6c/44166c4f868567759237f9640e9b8e56.jpg");
+    background-size: cover;
+}
+
+footer {
+    height: 100px;
+        background-image: url("https://i.pinimg.com/736x/44/16/6c/44166c4f868567759237f9640e9b8e56.jpg");
+    background-size: cover;
+}
+
+main {
+ 
+  background-image: url("https://i.pinimg.com/736x/b9/63/d9/b963d9f7e6af122a79bab71c6bd4d1c6.jpg");
+  background-size: cover;
+  height: 100%;
+  
+}
+
+
+
